@@ -1,0 +1,65 @@
+body {
+	background: #000;
+    color: #707070;
+	font: 12px normal Arial, Helvetica, sans-serif;
+}
+
+#main {
+	width: 700px;
+	margin: 50px 0 0 50px;
+}
+
+#header {
+	color: #707070;
+	font: 170px normal Arial, Helvetica, sans-serif;
+	float: left;
+	height: 300px; 
+	margin: 0 20px 0 0;
+}
+
+h1, a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-size: 30px;
+	margin: 0 0 0 0;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+#top {
+	width: 500px;
+	float: left;
+	margin: 25px 0
+}
+
+#bot {
+	margin: 0 0 0 0;
+	padding: 15px 0;
+	width: 500px;
+	float: left;
+	border-top: 1px solid #3c3b3b;
+}
+
+#bot p {
+	margin: 0 0 5px 0;
+}
+
+#banner {
+	padding: 15px 0;
+	width: 300px;
+	float: left;
+}
+
+#banner span {
+	float: left;
+	margin: 10px 5px 10px 5px;
+}
